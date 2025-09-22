@@ -1,18 +1,11 @@
-# Quartz v4
+# POSレジシステムfor蒼翔祭マニュアル
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+> このリポジトリはPOSレジシステムfor蒼翔祭マニュアル公開用リポジトリです。
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+POSレジシステムfor蒼翔祭は会津大学学園祭・蒼翔祭のために作成されたPOSレジシステムです。レジ、注文管理、売上分析、在庫管理、Googleスプレッドシートエクスポートなどの機能を備えています。詳細は以下のリンクから。
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+🔗 さぁ、始めましょう: https://yharuto0917.github.io/POS-Register-System-for-Soshosai-Manuals
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+💵 POSレジシステムfor蒼翔祭: https://pos-system-for-soshosai--pos-system-for-soshosai.asia-east1.hosted.app/
 
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+©2025 yharuto0917
