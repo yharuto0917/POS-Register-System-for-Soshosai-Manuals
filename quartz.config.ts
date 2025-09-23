@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
+    locale: "ja-JP",
     baseUrl: "https://yharuto0917.github.io/POS-Register-System-for-Soshosai-Manuals",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
