@@ -1,15 +1,15 @@
 {
-  "name": "@jackyzha0/quartz",
-  "description": "🌱 publish your digital garden and notes as a website",
+  "name": "@yharuto0917/POS-Register-System-for-Soshosai",
+  "description": "POSレジシスムfor蒼翔祭マニュアル用マニュアルです",
   "private": true,
-  "version": "4.5.2",
+  "version": "0.1.0",
   "type": "module",
-  "author": "jackyzha0 <j.zhao2k19@gmail.com>",
+  "author": "Y.Haruto ",
   "license": "MIT",
-  "homepage": "https://quartz.jzhao.xyz",
+  "homepage": "https://yharuto0917.github.io/profile",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jackyzha0/quartz.git"
+    "url": "https://github.com/yharuto0917/POS-Register-System-for-Soshosai-Manuals.git"
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
